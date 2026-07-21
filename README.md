@@ -1,6 +1,6 @@
 # Projeto 21 - Detecção de Objetos Cotidianos com YOLOv8
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido como atividade da disciplina de Inteligência Artificial do curso de **Análise e Desenvolvimento de Sistemas** do **Instituto Federal do Piauí (IFPI) – Campus Corrente**.
 
@@ -8,7 +8,7 @@ O objetivo é implementar um sistema de **detecção de múltiplos objetos** uti
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 - Compreender a arquitetura YOLOv8;
 - Trabalhar com diferentes classes do dataset COCO;
@@ -18,7 +18,7 @@ O objetivo é implementar um sistema de **detecção de múltiplos objetos** uti
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Python 3
 - Google Colab
@@ -31,13 +31,13 @@ O objetivo é implementar um sistema de **detecção de múltiplos objetos** uti
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 Foi utilizada a versão **COCO128**, derivada do dataset COCO (Common Objects in Context), contendo imagens anotadas de aproximadamente 80 classes diferentes.
 
 ---
 
-## 📊 Experimentos Realizados
+##  Experimentos Realizados
 
 Foram comparadas três configurações diferentes:
 
@@ -49,7 +49,7 @@ Foram comparadas três configurações diferentes:
 
 ---
 
-## 📈 Métricas Avaliadas
+##  Métricas Avaliadas
 
 O desempenho do modelo foi analisado utilizando as seguintes métricas:
 
@@ -62,12 +62,12 @@ O desempenho do modelo foi analisado utilizando as seguintes métricas:
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+https://github.com/kleslyrocha-gif/PROJETO-IA-YOLOv8.git
 ```
 
 ### 2. Acesse a pasta
@@ -98,7 +98,7 @@ Execute o notebook na ordem em que as células foram organizadas.
 
 ---
 
-## 📸 Resultados
+##  Resultados
 
 O projeto realiza a detecção automática de objetos presentes nas imagens do dataset COCO128 utilizando o modelo YOLOv8, exibindo:
 
@@ -111,7 +111,7 @@ Também são geradas métricas de avaliação para comparação entre diferentes
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 ProjetoIA.ipynb
@@ -122,7 +122,7 @@ results/
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Klesly de Souza Rocha**
 
@@ -132,7 +132,7 @@ Instituto Federal do Piauí (IFPI) – Campus Corrente
 
 ---
 
-## 📚 Referências
+##  Referências
 
 - Ultralytics YOLO Documentation
 - Microsoft COCO Dataset
