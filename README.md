@@ -73,7 +73,7 @@ https://github.com/kleslyrocha-gif/PROJETO-IA-YOLOv8.git
 ### 2. Acesse a pasta
 
 ```bash
-cd SEU-REPOSITORIO
+cd PROJETO-IA-YOLOv8
 ```
 
 ### 3. Abra o notebook
